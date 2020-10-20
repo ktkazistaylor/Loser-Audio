@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{e4fb49ef-0b51-498f-ba6d-200fd07b3fde}">
+		<property name="assetPath">
+			<value>dialtone.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>6.048</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ef961123-d105-420c-94ba-3978cc61b05b}</destination>
+		</relationship>
+	</object>
+</objects>
