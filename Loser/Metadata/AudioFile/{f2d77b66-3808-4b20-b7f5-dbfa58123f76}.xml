@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.00.00">
-	<object class="AudioFile" id="{ce41f429-14e8-494d-99ba-68bb0f3ee97e}">
+	<object class="AudioFile" id="{f2d77b66-3808-4b20-b7f5-dbfa58123f76}">
 		<property name="assetPath">
-			<value>dial tone loop.wav</value>
+			<value>ring.mp3</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
@@ -11,7 +11,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>0.7799166666666667</value>
+			<value>7.056</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{ef961123-d105-420c-94ba-3978cc61b05b}</destination>
