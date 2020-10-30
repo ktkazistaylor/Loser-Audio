@@ -133,7 +133,7 @@
 			<value>0</value>
 		</property>
 		<property name="maximumTimeDelay">
-			<value>340</value>
+			<value>500</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{d8ac3254-b2ee-4279-892e-55530a65a21b}</destination>
@@ -147,7 +147,7 @@
 			<value>0</value>
 		</property>
 		<property name="maximumTimeDelay">
-			<value>340</value>
+			<value>500</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{7b7d266a-1d11-4970-85b0-f63c2867202c}</destination>
@@ -161,7 +161,7 @@
 			<value>0</value>
 		</property>
 		<property name="maximumTimeDelay">
-			<value>340</value>
+			<value>500</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{6993b785-f05e-41ba-a265-b65b6930159f}</destination>
@@ -175,7 +175,7 @@
 			<value>0</value>
 		</property>
 		<property name="maximumTimeDelay">
-			<value>340</value>
+			<value>500</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{fc09451e-015a-42eb-922b-d2f1144445e8}</destination>
@@ -189,7 +189,7 @@
 			<value>0</value>
 		</property>
 		<property name="maximumTimeDelay">
-			<value>340</value>
+			<value>500</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{3ce5b66c-b2dc-4c82-bc41-fe8ed7f3478a}</destination>
@@ -203,7 +203,7 @@
 			<value>0</value>
 		</property>
 		<property name="maximumTimeDelay">
-			<value>340</value>
+			<value>500</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{3c005c96-e3fc-415a-9957-f07e958493d5}</destination>
@@ -217,7 +217,7 @@
 			<value>0</value>
 		</property>
 		<property name="maximumTimeDelay">
-			<value>340</value>
+			<value>500</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{a9937fee-a2f4-47b3-a4d9-0fc82e692386}</destination>
@@ -231,7 +231,7 @@
 			<value>0</value>
 		</property>
 		<property name="maximumTimeDelay">
-			<value>340</value>
+			<value>500</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{ea23bdff-6194-4a79-bb5c-fff447b3e379}</destination>
@@ -245,7 +245,7 @@
 			<value>0</value>
 		</property>
 		<property name="maximumTimeDelay">
-			<value>340</value>
+			<value>500</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{dcfcec93-19be-4f85-ad33-bb82378d769e}</destination>
@@ -259,7 +259,7 @@
 			<value>0</value>
 		</property>
 		<property name="maximumTimeDelay">
-			<value>340</value>
+			<value>500</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{5e81ad98-d40b-47d4-905e-047a4e0d4be9}</destination>
@@ -273,7 +273,7 @@
 			<value>0</value>
 		</property>
 		<property name="maximumTimeDelay">
-			<value>340</value>
+			<value>500</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{5cb9b2e4-ea68-4a4f-8e78-475183ee746c}</destination>
